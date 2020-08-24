@@ -1,4 +1,4 @@
-### practice exercise ###
+# First practice exercise
 
 
 ## Here is my path image: 
