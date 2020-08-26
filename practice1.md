@@ -5,5 +5,5 @@
 
 ![](Path_of_Boy.png)
 
-I kept it simple and remade the plot from the instructions. 
+This graph describes the path of a boy running between ten points, one extreme being at a longitude of 1 and latitude of 10 and the other with a longitude of 10 and latitude of 1.
 
