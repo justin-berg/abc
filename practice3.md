@@ -5,8 +5,8 @@
 ![](pop_diff)
 Here's the difference between the source and remote measurements for the population of different Liberian counties.
 
-## Density difference:
+## Difference in percent female:
 
-![](dens_diff)
-Here's the difference between the source and remote measurements for the population density of different Liberian counties.
+![](fem_diff)
+Here's the difference between the source and remote measurements for the female proportion of different Liberian counties' populations.
 
