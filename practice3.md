@@ -2,8 +2,8 @@
 
 ## Population of each county by men & women:
 
-Here's a stacked bar graph showing the population of each Liberian county divided by gender.
 ![](MenWomenPop)
+Here's a stacked bar graph showing the population of each Liberian county divided by gender.
 
 ## Population difference:
 
