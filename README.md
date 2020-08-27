@@ -6,4 +6,4 @@
 [exercise2](practice2.md)
 
 
-[exercise2](practice3.md)
+[exercise3](practice3.md)
