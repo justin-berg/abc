@@ -13,5 +13,5 @@ Here's the difference between the source and remote measurements for the female 
 ## Comparing population density between Liberian counties:
 
 ![](LiberianDensity)
-Here's a bar graph showing source measurements of population density in Liberia's different counties.
+Here's a bar graph showing source measurements of population density (in people per square km) in Liberia's different counties.
 
