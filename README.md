@@ -7,3 +7,7 @@
 
 
 [exercise3](practice3.md)
+
+
+[project 1 part 1](sep6.md)
+
