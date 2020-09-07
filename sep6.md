@@ -2,7 +2,7 @@
 
 ## Four Year Colleges: 
 
-![ok](newfour.pdf)
+![](newfour.pdf)
 This is a bar plot of the number of applications each region's four-year colleges recieved, labeled by state.
 
 
