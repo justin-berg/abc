@@ -2,11 +2,11 @@
 
 ## Four Year Colleges: 
 
-![](newfour.pdf)
+![link](newfour.pdf)
 This is a bar plot of the number of applications each region's four-year colleges recieved, labeled by state.
 
 
 ## Doctorate-Offering Colleges:
 
-![](newdocs.pdf)
+![link](newdocs.pdf)
 This is a bar plot of the number of applications each region's colleges offering doctoral degrees recieved, labeled by state.
