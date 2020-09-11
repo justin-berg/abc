@@ -10,7 +10,6 @@ Microsoft used neural machine translation, or NMT, an approach which uses an art
 Microsoft’s work and what comes after it have the potential to make translation far more accessible, especially to those without alternate translation resources. It’s important to point out that Microsoft made their research open source, allowing for collaboration and further advancements. It may seem far from our reach right now, but as machine translation progresses, the need to learn other languages may even become obsolete. 
 
 ***
-***
 <br />
 <br />
 
