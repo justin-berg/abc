@@ -12,4 +12,7 @@
 [project 1 part 1](sep6.md)
 
 
+[project 1 part 2](sep11.md)
+
+
 [Reflection 1](rfl.md)
