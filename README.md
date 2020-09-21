@@ -23,3 +23,7 @@ Hi everyone! I'm Justin, and I'm from Westport, Connecticut. I'm not sure what I
 
 
 [Reflection 1](rfl.md)
+
+
+[project 2 part 1](sep22.md)
+
