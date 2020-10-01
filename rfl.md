@@ -18,7 +18,7 @@ Microsoft’s work and what comes after it have the potential to make translatio
 
 <br />
 <br />
-
+<div align="left">
 “Artificial Neural Network.” ScienceDirect, www.sciencedirect.com/topics/earth-and-planetary-sciences/artificial-neural-network.
 Diño, Gino. “'Human Parity Achieved' in Machine Translation - Unpacking Microsoft's Claim.” Slator, 9 Dec. 2018, slator.com/technology/human-parity-achieved-machine-translation-unpacking-microsofts-claim/.
 Nemeth, Gergely D. “Machine Translation: A Short Overview.” Towards Data Science, 30 Oct. 2019, towardsdatascience.com/machine-translation-a-short-overview-91343ff39c9f. 
