@@ -21,7 +21,5 @@ Thanks to data science methods, efforts to predict protein folding may allow us 
 <br />
 <div align="left">
 “AlphaFold: Using AI for Scientific Discovery.” Deepmind, Google, 15 Jan. 2020, deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery.
- <br /><br />
 Halton, Mary. “Recycling Hope for Plastic-Hungry Enzyme.” BBC News, BBC, 16 Apr. 2018, www.bbc.com/news/science-environment-43783631.
-<br /><br />
 Hutson, Matthew. “AI Protein-Folding Algorithms Solve Structures Faster than Ever.” Nature News, Nature Publishing Group, 22 July 2019, www.nature.com/articles/d41586-019-01357-6. 
