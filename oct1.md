@@ -1,6 +1,6 @@
 # Deliverable 1
 
-![](moneyhoney)
+![](moneyhoney.png)
 
 This correlation matrix predicts the future prices of AstraZeneca (AZN) based on the performances of five other biomedical stocks. It also shows the relationship between each of those five stocks.
 
