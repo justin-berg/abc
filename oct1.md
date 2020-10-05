@@ -1,47 +1,12 @@
 # Deliverable 1
 
-This correlation matrix predicts the future prices of AstraZeneca (AZN) based on the performances of five other biomedical stocks. It also shows the relationship between each of those five stocks.
-
 ![](moneyhoney.png)
+
+This correlation matrix predicts the future prices of AstraZeneca (AZN) based on the performances of five other biomedical stocks. It also shows the relationship between each of those five stocks.
 
 
 # Deliverable 2
 
-Below is a summary of the model based on the data described in the correlation matrix. It has a multiple R-squared value of .465.
-
 [Model Summary](https://github.com/justin-berg/abc/blob/master/azn.txt)
 
-quantmod object:   lm1601576914.49289 	Build date:  2020-10-01 14:28:34 
-
-Model Specified: 
-     Next(Cl(AZN)) ~ Cl(EBS) + Cl(IQV) + Cl(NVS) + Cl(GILD) + Cl(BAYRY) 
-
-Model Target:  Next.Cl.AZN 		 Product:  AZN 
-Model Inputs:  Cl.EBS, Cl.IQV, Cl.NVS, Cl.GILD, Cl.BAYRY 
-
-Fitted Model: 
-
-	Modelling procedure:  lm 
-	Training window:  64  observations from  2015-08-28 to 2015-11-27
-
-Call:
-lm(formula = quantmod@model.formula, data = training.data)
-
-Residuals:
-     Min       1Q   Median       3Q      Max 
--1.85043 -0.51342  0.09658  0.63852  1.13197 
-
-Coefficients:
-            Estimate Std. Error t value Pr(>|t|)    
-(Intercept) 22.26271    4.24366   5.246 2.29e-06 ***
-Cl.EBS      -0.00297    0.06824  -0.044 0.965435    
-Cl.IQV       0.16790    0.04166   4.030 0.000165 ***
-Cl.NVS      -0.22327    0.07171  -3.113 0.002872 ** 
-Cl.GILD      0.02439    0.03137   0.778 0.440018    
-Cl.BAYRY     0.43522    0.15739   2.765 0.007616 ** 
----
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-Residual standard error: 0.749 on 58 degrees of freedom
-Multiple R-squared:  0.4651,	Adjusted R-squared:  0.419 
-F-statistic: 10.09 on 5 and 58 DF,  p-value: 5.528e-07
+This is a summary of the model based on the data described in the correlation matrix. It has a multiple R-squared value of .465.
