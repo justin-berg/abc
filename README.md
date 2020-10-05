@@ -30,4 +30,8 @@ Hi everyone! I'm Justin, and I'm from Westport, Connecticut. I'm not sure what I
 
 [Reflection 2](refl2.md)
 
+
 [project 2 part 2](oct1.md)
+
+
+[project 2 part 3](oct4.md)
