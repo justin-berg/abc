@@ -6,6 +6,6 @@ This correlation matrix predicts the future prices of AstraZeneca (AZN) based on
 
 # Deliverable 2
 
-[Model Summary](github.com/justin-berg/abc/azn.txt)
+[Model Summary](https://github.com/justin-berg/abc/blob/master/azn.txt)
 
 Here's a summary of the model based on the data described in the correlation matrix. It has a multiple R-squared value of .465.
