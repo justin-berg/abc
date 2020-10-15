@@ -40,3 +40,6 @@ Hi everyone! I'm Justin, and I'm from Westport, Connecticut. I'm not sure what I
 [project 3 part 1](oct9.md)
 
 
+[Reflection 3](refl3.md)
+
+
