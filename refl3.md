@@ -12,6 +12,8 @@ This data is especially useful in the field of bioinformatics, in which genes an
 
 Fortunately, the efficiency of genome sequencing has been increasing rapidly over time due to improvements in both speed and cost. This is largely thanks to tools such as AI, MapReduce (a programming model that lets us deal with huge amounts of data more quickly) and SQL (a programming language which allows us to easily retrieve data). The blue line on the below graph illustrates just how quickly the cost to sequence one genome has dropped since the very first, nearly 3-billion-dollar effort.
 
+![](genome.png)
+
 ***
 <br />
 <br />
