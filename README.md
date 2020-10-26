@@ -37,9 +37,11 @@ Hi everyone! I'm Justin, and I'm from Westport, Connecticut. I'm not sure what I
 [project 2 part 3](oct4.md)
 
 
-[project 3 part 1](oct9.md)
+[project 3](oct9.md)
 
 
 [Reflection 3](refl3.md)
 
+
+[project 4 part 1](oct26.md)
 
