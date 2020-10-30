@@ -1,14 +1,14 @@
 ## Deliverable 
 
-![](deliv444)
+![](deliv444.png)
 
 ## Stretch Goal 1
 
-![](str444)
+![](str444.png)
 
 ## Stretch Goal 2
 
-![](str2444)
+![](str2444.png)
 
 ## Stretch Goal 3
 
