@@ -57,6 +57,8 @@ Hi everyone! I'm Justin, and I'm from Westport, Connecticut. I'm not sure what I
 
 [Essay](theend.md)
 
-Thanks so much for introducing me to data science!
+<br> </br>
+
+Thank you for introducing me to data science!
 
 
