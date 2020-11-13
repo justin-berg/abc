@@ -55,3 +55,8 @@ Hi everyone! I'm Justin, and I'm from Westport, Connecticut. I'm not sure what I
 [project 5](nov9.md)
 
 
+[Essay](theend.md)
+
+Thanks so much for introducing me to data science!
+
+
