@@ -59,6 +59,8 @@ Hi everyone! I'm Justin, and I'm from Westport, Connecticut. I'm not sure what I
 
 <br>
 
+[Final](final.md)
+
 Thanks for introducing me to data science!
 
 
