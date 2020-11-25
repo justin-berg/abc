@@ -13,7 +13,7 @@ This plot shows where people live in Barda, along with where roads and health ca
 
 The population of Barda is about 155,000, and there appear to be 59 distinct settlements/urban areas throughout. The vast majority of people live in the capital, also named Barda, which has a population of about 114,000 people. The reason that this number is so much larger than the de jure population of Barda City is probably because more people have settled in and around the city than only those who live within the legally defined area of the city.
 
-The orange lines depict roadways, where the thicker lines represent primary roadways. It looks like there are more roads where more people live, which makes sense. 
+The orange lines depict roadways, where the thicker lines represent primary roadways. In the cities in the South, it looks like there are more roads where more people live, which makes sense. There is also a huge confluence of roads at Barda City, the capital.
 
 It also appears that there are only two health care facilities in Barda, both hospitals. While at first this appears concerning, it is worth noting that most people in the region have access to a hospital simply because the majority live in Barda City, the location of one hospital. Other people of Barda can reach a second hospital (which is technically outside of Barda), and most of the region is well-connected to it by roads. However, there are certainly areas of Barda that are far from a hospital, such as those in the East or those right between the two hospitals. Nonetheless, it's worth noting that Barda is only 370 square miles; I'd estimate that it's very unlikely that someone would need to drive more than, say, 25 miles to get to one of the hospitals.
 
