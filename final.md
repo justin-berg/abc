@@ -1,13 +1,13 @@
 ## Accessibility 1
 
-![ressac.png]
+![](ressac.png)
 
 Here is a plot that describes the de facto urbanized areas where people live within Barda, Azerbaijan (in blue). The dots represent the population of each area, while their color represents the population density, with red depicting the greatest.
 
 
 ## Accessibility 2
 
-![peau.png]
+![](peau.png)
 
 This plot shows where people live in Barda, along with where roads and health care facilities are. 
 
@@ -20,7 +20,7 @@ It also appears that there are only two health care facilities in Barda, both ho
 
 ## Accessibility 3
 
-![bardaend.png]
+![](bardaend.png)
 
 Finally, here is a 3D plot that describes the topopgraphy, urban areas, roads, and hospitals of Barda. It looks like Barda is fairly flat, and the few topographical features that can be discerned are minimal. However, you can see that some roads travel alongside those features. Urban areas don't seem to have any obvious relationship to topography here, possibly because there are no big mountains or valleys to cause that. Health care facilities simply seem to be where the confluences of roads are, meaning that they, too, aren't very affected by topography. 
 
