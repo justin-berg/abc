@@ -7,7 +7,7 @@ Here is a plot that describes the de facto urbanized areas where people live wit
 
 ## Accessibility 2
 
-![](peau.png)
+![](flos.png)
 
 This plot shows where people live in Barda, along with where roads and health care facilities are. 
 
